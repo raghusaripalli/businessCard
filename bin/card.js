@@ -44,7 +44,6 @@ const output =
   newline +
   working +
   newline +
-  newline +
   githubing +
   newline +
   linkedining +
